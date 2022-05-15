@@ -3,6 +3,10 @@
 - 🔪 I’m a knifemaker, visit [Francois Blignaut Knives](https://www.facebook.com/FBKnives/) to see what I'm currently making
 - 🌱 I’m learning more about [technology](https://www.credly.com/users/francoisb/badges)
 
+## Badges
+
+![This is an image](/travel-transportation-industry-intro_180px.png)
+
 <!---
 - 📫 How to reach me ...
 
